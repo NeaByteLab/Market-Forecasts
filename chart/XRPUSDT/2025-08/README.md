@@ -29,9 +29,9 @@
 - **Chart**: <a href="./2025-08-18 00:00:00+00:00.png">2025-08-18 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-08-11 to 2025-08-18
 - **Prediction Period**: 2025-08-18 to 2025-08-25
-- **Key Levels**: $2.89, $3.17, $3.33, $3.63
-- **CE Levels**: $3.03, $3.25, $3.48
-- **Market Trend**: neutral (Strength: 1.39)
+- **Key Levels**: $2.71, $2.98, $3.36, $3.66
+- **CE Levels**: $2.85, $3.17, $3.51
+- **Market Trend**: bearish (Strength: 5.60)
 
 ---
 
