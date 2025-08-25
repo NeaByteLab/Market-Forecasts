@@ -40,9 +40,9 @@
 - **Chart**: <a href="./2025-08-25 00:00:00+00:00.png">2025-08-25 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-08-18 to 2025-08-25
 - **Prediction Period**: 2025-08-25 to 2025-09-01
-- **Key Levels**: $750.92, $825.19, $859.10, $936.42
-- **CE Levels**: $788.06, $842.14, $897.76
-- **Market Trend**: neutral (Strength: 2.77)
+- **Key Levels**: $744.87, $818.54, $884.54, $964.15
+- **CE Levels**: $781.71, $851.54, $924.34
+- **Market Trend**: neutral (Strength: 2.97)
 
 ### Chart Types
 
