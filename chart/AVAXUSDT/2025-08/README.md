@@ -3,7 +3,7 @@
 ---
 
 #### Week 1: 2025-08-04 00:00:00+00:00
-- **Status**: Current Week 🔄
+- **Status**: Completed ✅
 - **Chart**: <a href="./2025-08-04 00:00:00+00:00.png">2025-08-04 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-07-28 to 2025-08-04
 - **Prediction Period**: 2025-08-04 to 2025-08-11
@@ -14,21 +14,24 @@
 ---
 
 #### Week 2: 2025-08-11 00:00:00+00:00
-- **Status**: Skipped ⏭️
+- **Status**: Current Week 🔄
 - **Chart**: <a href="./2025-08-11 00:00:00+00:00.png">2025-08-11 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-08-04 to 2025-08-11
 - **Prediction Period**: 2025-08-11 to 2025-08-18
-- **Key Levels**: $19.41, $21.33, $21.88, $23.84
-- **CE Levels**: $20.37, $21.60, $22.86
-- **Market Trend**: neutral (Strength: 1.96)
+- **Key Levels**: $19.41, $21.33, $24.81, $27.05
+- **CE Levels**: $20.37, $23.07, $25.93
+- **Market Trend**: bullish (Strength: 15.62)
 
 ---
 
 #### Week 3: 2025-08-18 00:00:00+00:00
-- **Status**: Skipped ⏭️ (No Data)
+- **Status**: Skipped ⏭️
 - **Chart**: <a href="./2025-08-18 00:00:00+00:00.png">2025-08-18 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-08-11 to 2025-08-18
 - **Prediction Period**: 2025-08-18 to 2025-08-25
+- **Key Levels**: $20.99, $23.07, $24.62, $26.83
+- **CE Levels**: $22.03, $23.84, $25.73
+- **Market Trend**: neutral (Strength: 3.67)
 
 ---
 
