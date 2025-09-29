@@ -25,7 +25,7 @@
 ---
 
 #### Week 3: 2025-09-15 00:00:00+00:00
-- **Status**: Current Week 🔄
+- **Status**: Completed ✅
 - **Chart**: <a href="./2025-09-15 00:00:00+00:00.png">2025-09-15 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-09-08 to 2025-09-15
 - **Prediction Period**: 2025-09-15 to 2025-09-22
@@ -36,21 +36,24 @@
 ---
 
 #### Week 4: 2025-09-22 00:00:00+00:00
-- **Status**: Skipped ⏭️
+- **Status**: Current Week 🔄
 - **Chart**: <a href="./2025-09-22 00:00:00+00:00.png">2025-09-22 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-09-15 to 2025-09-22
 - **Prediction Period**: 2025-09-22 to 2025-09-29
-- **Key Levels**: $4091.11, $4495.72, $4668.00, $5088.12
-- **CE Levels**: $4293.41, $4581.86, $4878.06
-- **Market Trend**: bearish (Strength: 3.21)
+- **Key Levels**: $4007.71, $4404.08, $4668.00, $5088.12
+- **CE Levels**: $4205.90, $4536.04, $4878.06
+- **Market Trend**: bearish (Strength: 5.22)
 
 ---
 
 #### Week 5: 2025-09-29 00:00:00+00:00
-- **Status**: Skipped ⏭️ (No Data)
+- **Status**: Skipped ⏭️
 - **Chart**: <a href="./2025-09-29 00:00:00+00:00.png">2025-09-29 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-09-22 to 2025-09-29
 - **Prediction Period**: 2025-09-29 to 2025-10-06
+- **Key Levels**: $3640.80, $4000.88, $4454.01, $4854.87
+- **CE Levels**: $3820.84, $4227.44, $4654.44
+- **Market Trend**: bearish (Strength: 8.02)
 
 ### Chart Types
 
