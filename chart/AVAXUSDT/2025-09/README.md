@@ -47,7 +47,7 @@
 ---
 
 #### Week 5: 2025-09-29 00:00:00+00:00
-- **Status**: Current Week 🔄
+- **Status**: Completed ✅
 - **Chart**: <a href="./2025-09-29 00:00:00+00:00.png">2025-09-29 00:00:00+00:00.png</a>
 - **Analysis Period**: 2025-09-22 to 2025-09-29
 - **Prediction Period**: 2025-09-29 to 2025-10-06
